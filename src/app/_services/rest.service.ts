@@ -13,7 +13,7 @@ export class RestService {
 	httpOptions: any;
 
 	constructor(private spinner: NgxSpinnerService, private http: HttpClient, private cookieService: CookieService) {
-		this.baseUrl = 'https://intelliq-app:8080/';
+		this.baseUrl = 'https://35.244.57.15:8080/';
 	}
 
 	createOptions(body?: any, customHeader?: string) {
