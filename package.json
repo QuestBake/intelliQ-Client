@@ -30,7 +30,7 @@
     "core-js": "^2.6.4",
     "firebase": "^6.0.2",
     "html2canvas": "^1.0.0-rc.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jspdf": "^1.5.3",
     "ngx-bootstrap": "^4.0.1",
     "ngx-cookie-service": "^2.1.0",
