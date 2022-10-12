@@ -31,7 +31,7 @@
     "firebase": "^6.0.2",
     "html2canvas": "^1.0.0-rc.1",
     "jquery": "^3.4.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "ngx-bootstrap": "^4.0.1",
     "ngx-cookie-service": "^2.1.0",
     "ngx-quill": "^4.7.1",
